@@ -20,7 +20,7 @@
 }
 */
  
- [class^="wa-"]:before, [class*=" wa-"]:before {
+ .was:before {
   font-family: "was";
   font-style: normal;
   font-weight: normal;
